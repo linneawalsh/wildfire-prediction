@@ -1,2 +1,2 @@
-# wildfire-prediction
-Using random forests to predict wildfire season severities
+# Wildfire Prediction
+Predicting wildfire season severity from precipitation data using random forests (no pun intended)
