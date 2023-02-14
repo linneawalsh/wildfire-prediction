@@ -5,10 +5,6 @@ import copy
 
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score
-from sklearn. metrics import mean_squared_error
-from sklearn.svm import LinearSVR
-from sklearn.svm import SVR
-from sklearn.neural_network import MLPRegressor
 
 FILE_NAME = "WAdata.xlsx"
 
